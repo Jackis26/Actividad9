@@ -1,0 +1,53 @@
+img{
+    width: 150px;
+    text-align:center;
+    align-items: center;
+}
+body{
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    align-items: center;
+    
+}
+header,section, article, footer{
+    margin: 10px;
+    text-align: center;
+    align-items: center;
+    
+}
+div{
+    background-color: darkgrey;
+    width: auto;
+    height: auto;
+    text-align: center;
+    align-items: center;
+}
+header img {
+    top: 0px;
+    left: 0px;
+}
+main{
+    border-radius: 5px;
+    border-color: black;
+}
+button{
+    background-color:#F7CA00;
+    border-color: #F7CA00;
+    border-radius: 10px;
+    width: 250px;
+    height: 30px;
+}
+input{
+    width: 250px;
+    height: 30px;
+}
+p span{
+    color: blue;
+    text-align: justify;
+}
+p{
+    text-align: justify;
+    font-size:12px;
+}
